@@ -32,6 +32,6 @@ BEN
 
 # Daily Timeframe
 - Gideon - 2 to 8 hours (after Java final project)
-- Ashley - 3 to 4 hours
+- Ashley - About 3 to 4 hours
 - Jiatong - 3 to 4 hours
 - Joran - Half day - 4 hours
