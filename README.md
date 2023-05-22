@@ -35,3 +35,6 @@ BEN
 - Ashley - About 3 to 4 hours
 - Jiatong - 3 to 4 hours
 - Joran - Half day - 4 hours
+
+# Database
+URL: db.lukcfqubjbpnxmbjqgng.supabase.co
