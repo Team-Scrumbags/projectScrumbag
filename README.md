@@ -10,14 +10,17 @@
 BEN
 
 # Main Focus
-- Modernise the DSU and Sprint Planning documents into a MySQL database
+- Modernise the DSU and Sprint Planning documents into a MySQL database 
+- Link the ScrumTeams excel spreadsheet to a MySQL database such that members are added automatically
+- Pull the data from the created databases into PowerBI for visualising weekly progress and easily access individual sprint goals
+- Create a template for the DSU document such that the stated daily goals can be put straight into a kanban flow (i.e. Trello)
 
-# Roles
-Scrum Master - 
-Product Owner -
+# Roles [15/05 - 31/05]
+- Scrum Master: Ashley - Facilitate scrum, remove impediments, motivating the team, organising DSU, leading sprint planning/review
+- Product Owner: Joran -  Talk with stakeholder (Ben), prioritise the product backlog, create weekly report (for stakeholder)
 
 # To Do List
-- [ ] Decide who is going to do what #1
+- [x] Decide who is going to do what
 - [ ] Define baseline Definition of Done
 - [ ] Set up list of requirements
 - [ ] User stories
