@@ -31,7 +31,7 @@ BEN
 - [ ] Start Sprint
 
 # Daily Timeframe
-- Gideon - 2 to 8 hours (after Java final project)
+- Gideon - 2 to 7 hours (after Java final project)
 - Ashley - 3 to 4 hours
 - Jiatong - 3 to 4 hours
 - Joran - Half day - 4 hours
