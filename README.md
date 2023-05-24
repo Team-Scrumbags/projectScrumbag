@@ -31,7 +31,7 @@ BEN
 - [ ] Sprint backlog
 - [ ] Start Sprint
 
-# Definition of Done
+# Requirements
 - [ ] a system as easy as the current system for writing down the DSU details
 - [ ] up to 12 active trainees able to use the system of the database
 - [ ] more streamlined than the current system to access the scrum details (webpage to enter DSU, auto exported into database, sprint goals get translated to Jira tickets automatically?)
