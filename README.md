@@ -32,14 +32,13 @@ BEN
 - [ ] Start Sprint
 
 # Requirements
-- [ ] a system as easy as the current system for writing down the DSU details
-- [ ] up to 12 active trainees able to use the system of the database
-- [ ] more streamlined than the current system to access the scrum details (webpage to enter DSU, auto exported into database, sprint goals get translated to Jira tickets automatically?)
-- [ ] template of DSU and Sprint entries for standardisation
+- [x] a system as easy as the current system for writing down the DSU details
+- [x] up to 12 active trainees able to use the system of the database
+- [x] more streamlined than the current system to access the scrum details (webpage to enter DSU, auto exported into database)
+- [x] template of DSU and Sprint entries for standardisation
 - [ ] error catching when filling in entries, rules applied for data safety
 - [ ] easily maintainable by new trainees
 - [ ] proper documentation
-- [ ] RBAC for the website
 
 # Daily Timeframe
 - Gideon - 2 to 8 hours (after Java final project)
